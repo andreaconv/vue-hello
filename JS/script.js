@@ -7,6 +7,7 @@ createApp({
     return {
       messaggio: "Ciao Vue",
       immagine: "<img src='https://picsum.photos/200/300'>",
+      image: "https://picsum.photos/200/300"
     }
   },
 
